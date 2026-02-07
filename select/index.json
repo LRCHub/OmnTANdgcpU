@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SMILE",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-07T22:27:06.795796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smile (Pictures or It Didn't Happen)",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/01_Smile_(Pictures_or_It_Didn't_Happen)_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smile (Pictures or It Didn't Happen)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/02_Smile_(Pictures_or_It_Didn't_Happen)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just To See You Smile",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/03_Just_To_See_You_Smile_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just To See You Smile",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/04_Just_To_See_You_Smile_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She'll Leave You With A Smile - 2001 Version",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_She'll_Leave_You_With_A_Smile_-_2001_Version_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She'll Leave You With A Smile - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_She'll_Leave_You_With_A_Smile_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smile",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/07_Smile_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker feat. salem ilese",
+      "has_synced": true,
+      "path": "select/08_Fake_A_Smile_Alan_Walker_feat._salem_ilese.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake A Smile",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/09_Fake_A_Smile_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God Put a Smile Upon Your Face",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/10_God_Put_a_Smile_Upon_Your_Face_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smile Like You Mean It",
+      "artist": "The Killers",
+      "has_synced": true,
+      "path": "select/11_Smile_Like_You_Mean_It_The_Killers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunday Smile",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/12_Sunday_Smile_Blondie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Smile",
+      "artist": "Youssoupha",
+      "has_synced": true,
+      "path": "select/13_Smile_Youssoupha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Smile (My All)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/14_Broken_Smile_(My_All)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smile",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/15_Smile_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Smile",
+      "artist": "Luna",
+      "has_synced": false,
+      "path": "select/16_Smile_Luna.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Smile (Simlish Version)",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/17_Smile_(Simlish_Version)_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Smile (Mark Ronson Version Revisited)",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/18_Smile_(Mark_Ronson_Version_Revisited)_Lily_Allen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SMILE",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_SMILE_LGYankees.txt"
+    }
+  ]
+}
